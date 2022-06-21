@@ -43,3 +43,5 @@ export const SpinnerLarge = Template.bind({});
 SpinnerLarge.args = {
     size: 'large'
 };
+
+
